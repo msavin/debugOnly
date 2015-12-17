@@ -12,10 +12,10 @@ First, add the package to your application:
 
 Then, wrap whatever code you want through a debugOnly check:
 
-	```javascript
-	if (debugOnly) {
-		// unleash the hacks!!
-	}
-	```
+```javascript
+if (debugOnly) {
+	// unleash the hacks!!
+}
+```
 
 Licensed under MIT license, brought to you by Meteor Toys.

@@ -1,7 +1,7 @@
 Package.describe({
 	name: 'msavin:debugonly',
 	summary: 'A debugOnly debugOnly package',
-	version: '1000.0.0',
+	version: '1000.0.1',
 	git:     'https://github.com/msavin/debugOnly.git',
 	documentation: 'README.md',
 	debugOnly: true
